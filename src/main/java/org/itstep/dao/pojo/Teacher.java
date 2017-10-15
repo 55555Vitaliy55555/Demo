@@ -30,4 +30,6 @@ public class Teacher{
 	@Column(name = "SUBJECT")
 	private String subject;
 	
+	public Teacher() {
+	}
 }
